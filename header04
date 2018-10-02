@@ -1,0 +1,31 @@
+                            <!-- Inicio header 04 -->
+                            <table style="border-spacing: 0; border-collapse: collapse; vertical-align: top; height: auto; width: 100%; table-layout: fixed; font-family: 'Raleway', Arial, Helvetica, sans-serif; font-size:12px;" cellpadding="10" cellspacing="20" border="0" align="center">
+                              <tr>
+                                <td style="width:100%; max-width:600px;background-color: #f7efee;">
+                                    <table border="0" cellpadding="10" cellspacing="10" style="border-spacing: 20px; border-collapse:collapse; vertical-align: center; height: auto; width 100%; max-width:600px; table-layout:fixed; text-align: center;display:inline-block;padding: 20px;">
+                                        <tr>
+                                            <td style="padding:20px;display:inline-block;">
+                                                <img src="file:///Y|/Design/Produção/Email MKT/Bases de e-mail/base_emails_2018/images/Nicephotos.png" alt="Nicephotos">
+                                            </td>
+                                            <td style="display:inline-block;">
+                                                <table style="display:inline-block;">
+                                                    <td style="padding:0 5px;">
+                                                       <a href="https://www.nicephotos.com.br/revelacao-de-fotos/" target="_blank" style="text-decoration: none; text-transform: none; color: #d10246; font-size:10px;font-weight:600;">REVELAÇÃO</a>
+                                                    </td>
+                                                    <td style="padding:0 5px;">
+                                                       <a href="https://www.nicephotos.com.br/fotolivro/" target="_blank" style="text-decoration:none; text-transform:none; color:#d10246;font-size:10px;font-weight:600;">FOTOLIVROS</a></td>
+                                                     <td style="padding:0 5px;">
+                                                        <a href="https://www.nicephotos.com.br/produtos-personalizados/" target="_blank" style="text-decoration:none; text-transform:none; color:#d10246;font-size:10px;font-weight:600;">FOTOPRODUTOS</a>
+                                                     </td>
+                                                       <td style="padding:0 5px;">
+                                                        <a href="https://www.nicephotos.com.br/decoracao/" target="_blank" style="text-decoration:none; text-transform:none; color:#d10246;font-size:10px;font-weight:600;">DECORAÇÃO</a>
+                                                     </td>
+                            
+                                               </table>
+                                             </td>
+                                        </tr>        
+                                    </table>
+                                </td>
+                              </tr>
+                            </table>
+                            <!-- Fim do header 04 -->
